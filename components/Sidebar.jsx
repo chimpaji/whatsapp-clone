@@ -1,5 +1,5 @@
 import { Avatar, Button, IconButton } from "@material-ui/core";
-import ChatIcon from "@material-ui/icons/chat";
+import ChatIcon from "@material-ui/icons/Chat";
 import MoreVertIcon from "@material-ui/icons/MoreVert";
 import SearchIcon from "@material-ui/icons/Search";
 import styled from "styled-components";

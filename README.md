@@ -1,3 +1,26 @@
+# [Whatsapp Clone](https://whatsapp-clone-vert.vercel.app/)
+
+Site: [https://whatsapp-clone-vert.vercel.app/](https://whatsapp-clone-vert.vercel.app/)
+
+![Whatsapp Clone](https://media.giphy.com/media/xBpwB80DIBuYzDKeSq/giphy.gif)
+
+
+## Technology
+
+ - Next.js
+ - Styled Components
+ - Firestore
+ - Firebase Authentication
+ - Firebase Security Rules
+
+## Features
+
+ - Creating account
+ - Start new conversations by email
+ - Realtime update send, recieve messages
+ - Last active information
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

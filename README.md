@@ -2,7 +2,7 @@
 
 Site: [https://whatsapp-clone-vert.vercel.app/](https://whatsapp-clone-vert.vercel.app/)
 
-![Whatsapp Clone](https://media.giphy.com/media/xBpwB80DIBuYzDKeSq/giphy.gif)
+![Whatsapp Clone](https://media.giphy.com/media/tFyoKwD6IbBUNuTBlH/giphy.gif)
 
 
 ## Technology
